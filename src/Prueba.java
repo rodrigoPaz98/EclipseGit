@@ -4,5 +4,7 @@ public class Prueba {
 		System.out.println("Hola");
 		
 		System.out.println("Mensaje 2");
+		
+		System.out.println("Mensaje 3");
 	}
 }
